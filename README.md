@@ -10,7 +10,7 @@ Es una herramienta matemática diseñada para resolver problemas numéricos. La 
 ### Contenido
 
 1. Solución de ecuaciones no lineales
-   1. Método de la bisección
+   1. [Método de la bisección](Docs/example.md)
    2. Método de Newton-Raphson
    3. Método de punto fijo
    4. Sistemas de ecuaciones no lineales
